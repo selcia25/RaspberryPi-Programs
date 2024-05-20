@@ -5,12 +5,12 @@ This repository contains various Raspberry Pi projects demonstrating different s
 ## Contents
 
 - [LED Multiple](#led-multiple)
-- [LED Single](#led_single.py)
-- [Raindrop Sensor LED](#raindrop_led.py)
-- [Soil Moisture Sensor](#soil_sensor.py)
-- [Temperature and Humidity Sensor](#temp_humidity.py)
-- [Traffic Light Simulation](#traffic_light.py)
-- [Ultrasonic Sensor](#ultrasonic_sensor.py)
+- [LED Single](#led-single)
+- [Raindrop Sensor LED](#raindrop-sensor-led)
+- [Soil Moisture Sensor](#soil-moisture-sensor)
+- [Temperature and Humidity Sensor](#temperature-and-humidity-sensor)
+- [Traffic Light Simulation](#traffic-light-simulation)
+- [Ultrasonic Sensor](#ultrasonic-sensor)
 
 ## LED Multiple
 
