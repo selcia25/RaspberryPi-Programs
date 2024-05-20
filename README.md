@@ -4,7 +4,7 @@ This repository contains various Raspberry Pi projects demonstrating different s
 
 ## Contents
 
-- [LED Multiple](#led_multiple)
+- [LED Multiple](#led-multiple)
 - [LED Single](#led_single.py)
 - [Raindrop Sensor LED](#raindrop_led.py)
 - [Soil Moisture Sensor](#soil_sensor.py)
